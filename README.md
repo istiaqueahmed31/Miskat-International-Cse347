@@ -169,4 +169,4 @@ Admin access is controlled through Supabase roles. A user must have the `admin` 
 
 ## License
 
-This project is private and intended for internal or client use unless you choose to add a separate license.
+This project is private and own my istiaque ahmed licensed to SOFT CORE LTD and intended for internal or client use only.
