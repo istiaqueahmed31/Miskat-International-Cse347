@@ -1,4 +1,4 @@
-# Bazaar Deals BD
+# E-Commarce BD
 
 Bazaar Deals BD is a bilingual e-commerce storefront built for the Bangladesh market. It includes a customer-facing shopping experience, Supabase-powered authentication and order handling, and an admin dashboard for managing products, categories, banners, orders, and inventory.
 
